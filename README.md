@@ -1,4 +1,7 @@
 # Desafios 
+Aqui encontram-se vários desafios sobre forma de exercícios propostos pela comunidade. Todos os exercicio encontram-se separados por temas (ver o Índice de exercícios). 
+
+
 <pre>
                        _____
                     .-'`     '.
