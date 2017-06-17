@@ -1,5 +1,5 @@
 # Desafios 
-Aqui encontram-se vários desafios sobre forma de exercícios propostos pela comunidade. Todos os exercicio encontram-se separados por temas (ver o <a href=”#indice”>Índice de exercícios</a>). 
+Aqui encontram-se vários desafios sobre forma de exercícios propostos pela comunidade. Todos os exercicio encontram-se separados por temas (ver o <a href=”README.md#Índice-de-exercícios”>Índice de exercícios</a>). 
 
 
 <pre>
@@ -35,7 +35,7 @@ Aqui encontram-se vários desafios sobre forma de exercícios propostos pela com
                     '.  '.           '.                 .'
 
 </pre>
-<h2 id="indice">Índice de exercícios:</h2>
+<h2>Índice de exercícios:</h2>
 <ul> 
 <li> 01 - Variaveis e Entrada de Dados </li>
 <li> 02 - Condições</li>
