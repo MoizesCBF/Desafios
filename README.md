@@ -35,7 +35,7 @@ Aqui encontram-se vários desafios sobre forma de exercícios propostos pela com
                     '.  '.           '.                 .'
 
 </pre>
-<h2 name="indice">Índice de exercícios:</h2>
+<h2 id="indice">Índice de exercícios:</h2>
 <ul> 
 <li> 01 - Variaveis e Entrada de Dados </li>
 <li> 02 - Condições</li>
