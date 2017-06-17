@@ -1,5 +1,5 @@
 # Desafios 
-Aqui encontram-se vários desafios sobre forma de exercícios propostos pela comunidade. Todos os exercicio encontram-se separados por temas (ver o <a href=”#Índice-de-exercícios”>Índice de exercícios</a>). 
+Aqui encontram-se vários desafios sobre forma de exercícios propostos pela comunidade. Todos os exercicio encontram-se separados por temas (ver o <a href=#Índice-de-exercícios>Índice de exercícios</a>). 
 
 
 <pre>
