@@ -1,0 +1,8 @@
+Proposta 004:
+
+Faça um programa que leia uma expressão com parenteses. Verifique se todos os parenteses
+foram abertos e fechados corretamente.
+Exemplo:
+(())............OK
+(()))...........XX
+(()())..........OK

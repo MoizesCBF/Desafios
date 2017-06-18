@@ -1,0 +1,5 @@
+Proposta 001: 
+ 
+Escreva um programa que imprima a contagem regressiva do lançamento de um foguete. O programa deve imprimir, a cada linha, 10, 9, 8, ..., 0 e Fogo !  
+OBS:. Para este exercício, será aceito apenas o While. 
+

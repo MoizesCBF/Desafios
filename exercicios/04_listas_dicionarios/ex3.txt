@@ -1,0 +1,4 @@
+Proposta 003:
+
+Escreva um programa que represente uma fila de cliente de um banco capaz de incluir novos clientes à fila,
+por ordem de chegada, e eliminar o primeiro da fila após final de cada atendimento.
