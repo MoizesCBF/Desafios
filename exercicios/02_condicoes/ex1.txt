@@ -1,4 +1,0 @@
-Proposta 001:
-
-Escreva um programa que pergunte a velocidade atual do usuário em um carro. Caso ultrapasse 80 Km/h, exiba uma
-mensagem dizendo que o usuario foi multado. Neste caso, exiba o valor da multa, cobrando R$5,00 por Km acima de 80.

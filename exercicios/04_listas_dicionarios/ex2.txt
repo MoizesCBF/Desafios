@@ -1,4 +1,0 @@
-Proposta 002:
-
-Escreva um programa que leia duas listas e imprima uma terceira lista que será formada a partir da
-soma da primeira lista com a segunda porém sem nenhum valor repetido.

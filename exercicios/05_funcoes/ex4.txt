@@ -1,5 +1,0 @@
-Proposta 004:
-
-Crie uma função que receba o tamanho da base e altura de um triangulo e retorne sua área.
-
-OBS: Área do triangulo = (base*altura)/2

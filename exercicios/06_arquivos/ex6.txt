@@ -1,4 +1,0 @@
-Proposta 006:
-
-Altere o programa anterior (Proposta 005) de modo que mostre uma mensagem de erro caso o
-usuário tente adicionar um contato duplicado (de mesmo nome).

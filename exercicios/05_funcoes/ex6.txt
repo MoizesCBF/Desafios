@@ -1,3 +1,0 @@
-Proposta 006:
-
-Escreva uma função que recebe uma lista de numeros e retorne a quantidade de numeros, média e somatório.
