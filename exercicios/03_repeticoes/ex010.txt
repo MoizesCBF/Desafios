@@ -1,4 +1,4 @@
-Exercicio 010: 
+Proposta 010: 
  
 Escreva um programa que verfique se um número é palindromo. 
 OBS: Um número só será palindromo se a ordem inversa do mesmo for igual a ordem original (exemplo; 010, 666, 10501) 

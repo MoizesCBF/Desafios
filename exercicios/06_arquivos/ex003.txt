@@ -1,3 +1,3 @@
-Exercicio 003:
+Proposta 003:
 
 Escreva um programa que leia um arquivo pares.txt e impares.txt e que crie um só arquivo contendo todos os numeros dos dois arquivos respeitando a ordem numérica crescente.

@@ -1,4 +1,4 @@
-Exercicio 005:
+Proposta 005:
 
 Escreva um programa que leia um arquivo e crie um dicionário onde cada chave é uma palavra e cada valor é o número de ocorrências no arquivo.
 

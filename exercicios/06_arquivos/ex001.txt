@@ -1,3 +1,3 @@
-Exercicio 001:
+Proposta 001:
 
 Escreva um programa que receba o nome do arquivo e imprima na tela todas as linhas desse arquivo.
