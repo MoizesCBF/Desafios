@@ -1,0 +1,10 @@
+Exercicio 09:
+
+Seu chefe do banco SantoAndré amou seu programa e prometeu uma promoção caso você consiga fazer uma modificação no algoritmo. Crie uma classe ContaEspecial, que herda da classe ContaCorrente, adicionando o atributo cheque_especial. Permita que este cliente possa sacar mesmo com saldo igual a zero respeitando o limite do cheque especial. Faça as devidas alterações nos métodos sacar e depositar e teste seu novo programa instanciando um cliente(objeto) ficticio. Lembre-se que sua promoção depende disso!
+
+Dica: importe a classe ContaCorrente do exercicio 005
+
+exemplo:
+´´´py
+from exercicio005 import ContaCorrente
+´´´

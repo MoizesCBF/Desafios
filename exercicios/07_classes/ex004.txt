@@ -1,0 +1,11 @@
+Exercicio 004:
+
+Importe a classe Televisão do exercício 003.
+Crie duas instâncias(objetos) do tipo Televisão iniciando em canais diferentes(ligadas) e teste todos os métodos criados (mudar canal, mudar volume e ligar/desligar).
+
+OBS: para importar a classe Televisão, o arquivo da proposta 45 deve estar no mesmo diretório do arquivo da proposta 46. 
+
+Exemplo:
+´´´py
+from proposta45 import Televisao
+´´´
