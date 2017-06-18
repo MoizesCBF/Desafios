@@ -1,0 +1,3 @@
+Exercicio 003:
+
+Escreva uma função que receba dois numeros e retorne True se o primeiro número for múltiplo do segundo.

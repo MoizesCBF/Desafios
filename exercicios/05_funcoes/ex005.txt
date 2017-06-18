@@ -1,0 +1,3 @@
+Exercicio 005:
+
+Escreva uma função que receba um numero e retorne seu fatorial.

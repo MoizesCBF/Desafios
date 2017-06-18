@@ -1,0 +1,4 @@
+Exercício 001:
+
+Crie uma função que retorne o maior entre dois números,
+EX: maximo(5,6) == 6
