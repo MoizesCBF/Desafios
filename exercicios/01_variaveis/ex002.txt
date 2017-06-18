@@ -1,0 +1,4 @@
+Proposta 002:
+
+Escreva um programa que converta uma temperatura digitada em ºC em ºF.
+Dica: ºF = ( (9*ºC)/5 ) + 32

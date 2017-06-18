@@ -1,0 +1,3 @@
+Proposta 006:
+
+Crie uma classe Carro e um pequeno programa Python para testá-la. A classe começaria com atributos modelo, cor, velocidade, combustivel, e com métodos acelerar, frear, abastecer. O método acelerar, por exemplo, deve aumentar a velocidade somente se houver combustivel no tanque, etc. Depois, use sua criatividade para implementar novos atributos e novos métodos.
