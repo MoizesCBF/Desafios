@@ -1,0 +1,4 @@
+Proposta 005:
+
+Você trabalha no banco SantoAndré, no setor de TI. Seu chefe pediu para vc criar um programa de cadastro simples para novos clientes. Crie uma classe ContaCorrente com os atributos: cliente, código, saldo. O cliente deve ser capaz de: sacar, depositar e consultar saldo.
+
