@@ -1,4 +1,4 @@
-Proposta 001: Tkinter
+		Tkinter
 
 Usando o gerenciador de layout pack( ):
 Crie a função 'bt_ok' que mostre na tela uma mensagem; 

@@ -1,5 +1,5 @@
-Proposta 008:
 
-Escreva um programa que gere um dicionário onde cada chave seja um caractere e
-seu valor seja igual a posição deste caratere na frase 'Ola mundo!'.
+
+Escreva um programa que gere um dicionário onde cada chave seja um caractere eseu valor seja igual a posição deste caratere na frase 'Ola mundo!'.
+
 EX:. "Ola" --> {'O':0, 'l':1, 'a':2}

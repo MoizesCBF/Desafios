@@ -1,4 +1,4 @@
-Proposta 006: 
+
  
 Escreva um programa que pergunte o depósito incial e a taxa de juros de uma conta poupança. Exiba os valores mês a mês para os 24 primeiros meses. Escreva o total ganho com juros no período. 
 

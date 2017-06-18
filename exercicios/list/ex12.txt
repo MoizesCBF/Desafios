@@ -1,7 +1,5 @@
-Proposta 012:
 
-Crie um jogo da velha para dois jogadores. O jogo deve perguntar onde você quer jogar e alternar entre os jogadores.
-A cada jogada verifique se a posição esta livre. Verifique também quando um jogador venceu uma partida.
 
-Dica: Pode-se montar um jogo da velha como uma lista de 3 elementos onde cada elemento é uma lista de, também,
-3 elementos (uma matriz 3x3).
+Crie um jogo da velha para dois jogadores. O jogo deve perguntar onde você quer jogar e alternar entre os jogadores. A cada jogada verifique se a posição esta livre. Verifique também quando um jogador venceu uma partida.
+
+Dica: Pode-se montar um jogo da velha como uma lista de 3 elementos onde cada elemento é uma lista de, também, 3 elementos (uma matriz 3x3).

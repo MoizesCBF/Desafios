@@ -1,4 +1,4 @@
-Proposta 005:
+
 
 Escreva um programa para um banco para aprovar empréstimo bancário para compra de uma casa.
 O programa deve perguntar o valor da casa a comprar, o salário do comprador e quantidade de tempo(anos) do

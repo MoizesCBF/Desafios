@@ -1,4 +1,5 @@
-Proposta 011:
+
 
 Crie um jogo da forca. O usuário deve digitar uma palavra secreta para outro usuario tentar advinhar.
+
 Dica: use split para separar os caracteres.

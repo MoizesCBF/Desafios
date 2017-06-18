@@ -1,4 +1,4 @@
-Proposta 002: Tkinter
+		Tkinter
 
 Usando o gerenciador de layout pack( ), crie um programa que recebe o nome de uma pessoa, o ano de nascimento e que, ao apertar o botão 'calcular idade', mostre a seguinte mensagem: "Olá {nome}, vc tem {idade} anos."
 

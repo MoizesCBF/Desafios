@@ -1,4 +1,4 @@
-Proposta 003: Tkinter
+		Tkinter
 
 Faça um programa que receba os valores de um denominador e numerador.
 Ao clicar em 'calcular' mostre o resultado da divisão do numerador pelo denominador em uma nova janela com a seguinte mensagem: "A a divisão de {numerador} por {denominador} é {resposta}."

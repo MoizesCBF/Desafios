@@ -1,4 +1,4 @@
-Proposta 006: Tkinter
+		Tkinter
 
 Crie uma janela com os seguintes menus 'Arquivo', 'Formatar' e 'Créditos'.
 Em 'Arquivo' adicione os seguintes submenus:

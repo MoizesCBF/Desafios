@@ -1,4 +1,4 @@
-Proposta 009: 
+
  
 Escreva um programa que leia numeros do teclados até que o usuário digite '0' (zero). No final da execução imprima quantidade de numeros digitados, a soma destes números e a média aritmética dos mesmos. 
 

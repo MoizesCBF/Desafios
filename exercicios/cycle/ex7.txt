@@ -1,4 +1,4 @@
-Proposta 007: 
+
  
 Altere o programa da proposta 06 de tal forma que pergunte também o valor que o usuario quer depositar mensalmente. Este valor será depositado no inicio de cada mes e deverá ser considerado no cálculo de juros do mês seguinte. 
 
