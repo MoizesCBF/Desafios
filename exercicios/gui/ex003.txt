@@ -1,0 +1,11 @@
+Proposta 003: Tkinter
+
+Faça um programa que receba os valores de um denominador e numerador.
+Ao clicar em 'calcular' mostre o resultado da divisão do numerador pelo denominador em uma nova janela com a seguinte mensagem: "A a divisão de {numerador} por {denominador} é {resposta}."
+Faça também um botão sair que, dependendo da resposta do usuário, encerra a a aplicação.
+
+Observação: Use o widget Frame para organizar os elementos da janela;
+            Use o gerenciador de layout pack() na janela principal;
+            Use o gerenciador de layout grid() no frame.
+
+Dica: Você pode usar a biblioteca messagebox.

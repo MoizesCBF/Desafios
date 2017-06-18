@@ -1,0 +1,13 @@
+Proposta 006: Tkinter
+
+Crie uma janela com os seguintes menus 'Arquivo', 'Formatar' e 'Créditos'.
+Em 'Arquivo' adicione os seguintes submenus:
+- Abrir;
+- Salvar;
+- Sair
+Em 'Formatar' adicione os seguintes submenus:
+- Fonte;
+- Página
+Em 'Cŕedito' adicione o seguinte submenu:
+- Seu nome ou nickname
+

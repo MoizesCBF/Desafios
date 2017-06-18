@@ -1,0 +1,3 @@
+Proposta 005: Tkinter
+
+Usando o gerenciador de layout de sua preferência, crie uma janela com um botão. Ao clicar neste botão, crie uma label com o seguinte texto: "Você clicou no botão".

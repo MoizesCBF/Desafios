@@ -1,0 +1,8 @@
+Proposta 004: Tkinter
+
+Usando seus conhecimentos em Tkinter, crie uma janela com o desenho da bandeira do japão.
+
+Dica: use o canvas para criar um círculo.
+
+
+
