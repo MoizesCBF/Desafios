@@ -2,4 +2,5 @@ Proposta 005:
  
 Escreva um programa que leia dois numeros. Imprima a divisão inteira do primeiro pelo segundo.
 Utilize apenas os operadores de soma e subtração.
+
 OBS:. Quociente da divisão de dois numeros =  quantidade de vezes que podemos retirar o divisor do dividendo. 

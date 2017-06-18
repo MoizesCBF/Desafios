@@ -2,3 +2,5 @@ Proposta 002:
 
 Modifique a classe Televisao(Proposta 001) de forma que, se pedirmos para mudar o canal para baixo, além do mínimo,
 ela vá para o canal máximo. Se mudarmos o canal para cima, além do máximo, ele vá para o canal mínimo.
+
+OBS: Use o comando "!prop classes 1" para visualizar o a proposta 1.

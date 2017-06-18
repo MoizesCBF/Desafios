@@ -12,3 +12,5 @@ exemplo:
 ```py
 from proposta5 import ContaCorrente
 ```
+
+OBS: Use o comando " !prop classes 5 " para visualizar a proposta 5.

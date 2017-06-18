@@ -10,3 +10,5 @@ Exemplo:
 ```py
 from proposta3 import Televisao
 ```
+
+OBS: Use o comando " !prop classes 3 " para visualizar a proposta 3.

@@ -1,4 +1,5 @@
 Proposta 002:
 
 Crie uma função que receba o tamanho do lado de um quadrado e retorne sua área.
+
 OBS: Área do quadrado = lado²
