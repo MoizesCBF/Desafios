@@ -1,4 +1,4 @@
-Exercício 003:
+Proposta 003:
 
 Escreva um programa que pergunte a distancia que um passageiro deseja percorrer em Km.
 Calcule o preço da passagem, cobrando R$0.50 por Km para viagem de até 200 Km e R$0.45

@@ -1,4 +1,4 @@
-Exercício 004:
+Proposta 004:
 
 Escreva um programa para calcular o tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e
 por quantos anos ele fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro, calcule quantos dias de

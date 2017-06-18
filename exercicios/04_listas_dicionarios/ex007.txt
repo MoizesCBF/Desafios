@@ -1,0 +1,5 @@
+Proposta 007:
+
+Escreva um programa para um sacolão(mercado de verduras, legumes, frutas e hotaliças)
+que cadastre o nome do produto(chave) e seu respectivo preço(valor). Crie um menu para
+com opções de cadastrar produto, consultar produto e sair.
