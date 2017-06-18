@@ -5,6 +5,7 @@ Seu chefe do banco SantoAndré amou seu programa e prometeu uma promoção caso 
 Dica: importe a classe ContaCorrente da proposta 005
 
 exemplo:
-```py
+```
+py
 from proposta5 import ContaCorrente
 ```
