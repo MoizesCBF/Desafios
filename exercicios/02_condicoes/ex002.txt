@@ -1,3 +1,0 @@
-Proposta 002:
-
-Escreva um programa que receba três números e que imprima o maior e menor.

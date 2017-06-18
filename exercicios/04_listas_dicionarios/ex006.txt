@@ -1,4 +1,0 @@
-Proposta 006:
-
-Escreva um programa que receba uma lista de números aleatórios e imprima esta mesma
-lista em ordem Crescente e ordem Decrescente.

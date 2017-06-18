@@ -1,4 +1,0 @@
-Proposta 004: 
- 
-Escreva um programa que leia dois numeros. Imprima o resultado da multiplicação do primeiro pelo segundo. Utilize apenas os operadores de soma e subtração. 
-

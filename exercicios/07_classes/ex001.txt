@@ -1,3 +1,0 @@
-Proposta 001:
-
-Crie uma classe Televisão com atributos: ligado(booleano), canal, canal_maximo, canal_minimo, volume, vol_maximo e vol_minimo. Crie também os métodos: power, set_canal_up, set_canal_down, set_vol_up e set_vol_down.
