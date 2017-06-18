@@ -1,0 +1,4 @@
+Exercício 003: 
+ 
+Escreva um programa que mostre na tela todos os múltiplos de 3 de 1 até um número máximo digitado pelo usuário. 
+
