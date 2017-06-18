@@ -1,4 +1,5 @@
 Proposta 08: 
  
-Escreva um programa que pergunte o valor inicial de uma divida e juros mensal. Pergunte também qual o valor que o usuario irá pagar por mes. Imprima o numero de meses que o usuario ira levar para quitar a divida e o juros total pago. 
+Escreva um programa que pergunte o valor inicial de uma divida e juros mensal. Pergunte também qual o valor que o
+usuario irá pagar por mes. Imprima o numero de meses que o usuario ira levar para quitar a divida e o juros total pago.
 

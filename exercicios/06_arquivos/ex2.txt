@@ -1,6 +1,7 @@
 Proposta 002:
 
-Modifique o programa anterior(Proposta 001) de modo que o usuário digite, além do nome do arquivo, dois valores. Imprima apenas as linhas entre estes dois valores (incluindo a linha de início e fim).
+Modifique o programa anterior(Proposta 001) de modo que o usuário digite, além do nome do arquivo, dois valores.
+Imprima apenas as linhas entre estes dois valores (incluindo a linha de início e fim).
 
 Exemplo: Valor_1 = 6
 	 Valor_2 = 10

@@ -1,3 +1,4 @@
 Proposta 005:
 
-Escreva um programa que receba 10 nomes e seus respectivos nº de telefones e gere um arquivo agenda.doc com os nomes organizados em ordem alfabética.
+Escreva um programa que receba 10 nomes e seus respectivos nº de telefones e gere um arquivo agenda.doc
+com os nomes organizados em ordem alfabética.
