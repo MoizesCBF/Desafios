@@ -1,7 +1,7 @@
 		Tkinter
 
 Faça um programa que receba os valores de um denominador e numerador.
-Ao clicar em 'calcular' mostre o resultado da divisão do numerador pelo denominador em uma nova janela com a seguinte mensagem: "A a divisão de {numerador} por {denominador} é {resposta}."
+Ao clicar em 'calcular' mostre o resultado da divisão do numerador pelo denominador em uma nova janela com a seguinte mensagem: "A divisão de {numerador} por {denominador} é {resposta}."
 Faça também um botão sair que, dependendo da resposta do usuário, encerra a a aplicação.
 
 Observação: Use o widget Frame para organizar os elementos da janela;
