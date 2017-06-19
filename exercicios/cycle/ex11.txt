@@ -1,0 +1,1 @@
+Escreva um programa que pede o nome e ano de nascimento de uma pessoa e retorne a idade e um texto dizendo que ela já pode dirigir caso ela seja maior ou igual 18 anos, ou que não pode dirigir ainda,caso seja menor de 18 anos.

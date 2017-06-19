@@ -1,0 +1,9 @@
+Escreva um programa para receber os dados para calculo de IMC;
+Faça o calculo do IMC e compare o resultado para imprimir textos de acordo com o peso da pessoa.
+
+IMC entre 18.6 e 24.9 --> imprime 'Voce é saudável'
+IMC entre 25.0 e 29.9 --> imprime 'Acima do peso'
+IMC entre 30.0 e 34.9 --> imprime 'Obesidade I'
+IMC entre 35.0 e 39.9 --> imprime 'Obesidade II'
+
+Dica: IMC = peso/altura²

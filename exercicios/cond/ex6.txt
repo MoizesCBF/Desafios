@@ -1,0 +1,7 @@
+Um programa da operadora de celular Atím emite o valor da fatura de acordo com a seguinte relação de minutos/preço abaixo:
+
+Abaixo de 200 min -> $0.20 por minuto
+Entre 200 a 400 min -> $0.18 por minuto
+Acima de 400 min -> $0.15 por minuto
+
+Escreva este programa para Atím de forma que o usuário entre com o valor de minutos consumidos e retorne para ele o valor da fatura em reais (R$0.00).
