@@ -1,5 +1,6 @@
+'''
 Idéia:
-```py
+
 receber o numero inteiro
 calcular se é divisivel por 2
 
@@ -7,14 +8,15 @@ SE resposta for par:
     imprime um texto dizendo que o numero é par
 SE NÃO:
     imprime um texto dizendo que o numero é impar
-```
-Código:
-```py
-numero=eval(input("Digite um número"))
+'''
+
+'Código:'
+
+numero=eval(input("Digite um número: "))
 resposta = numero%2
 
 if resposta==0:
     print("Seu número é par!")
 else:
     print("Seu número é impar!")
-```
+

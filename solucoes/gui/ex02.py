@@ -1,10 +1,7 @@
-Importando bibliotecas:
-```py
 from tkinter import *
 from tkinter.messagebox import *
-```
-Definindo funções:
-```py
+
+#  ________________________Funções___________________________________
 def calcular():
     'recebe ano, calcula idade e exibe no monitor'
     try:
@@ -18,9 +15,7 @@ def calcular():
     nome = nome_et.get()
     texto = 'Olá {}, você tem {} anos.'
     monitor.configure(text=texto.format(nome, idade))
-```
-Código da GUI:
-```py
+#  _______________________________________________________fim funções
 
 'Cria janela principal'
 root = Tk()
@@ -49,7 +44,7 @@ idade_et.pack(side=TOP)
 bt_calcular = Button(root, text='Calcular', command=calcular)
 bt_calcular.pack(side=TOP)
 
+
 root.geometry('300x300')
 root.title('Prop 02 | by Harry')
 root.mainloop()
-```

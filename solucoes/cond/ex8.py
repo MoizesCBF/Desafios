@@ -1,5 +1,6 @@
+'''
 Idéia:
-```py
+
 SE condição1:
     imprimir texto...
 SE NÃO:
@@ -10,18 +11,18 @@ SE NÃO:
             imprimir texto...
         SE NÃO:
             imprimir texto...
-```
+'''
 
-Código:
-```py
+'Código:'
 
-peso=eval(input("Digite o seu peso:"))
-altura=eval(input("Digite a sua altura:"))
+peso=eval(input("Digite o seu peso(kg): "))
+altura=eval(input("Digite a sua altura(m): "))
 IMC=peso/(altura*altura)
+
 if IMC<18.5:
     print("Você está abaixo do peso, que inveja")
 else:
-    if IMC>=18.6 and IMC<=24.9:
+    if IMC>=18.5 and IMC<=24.9:
         print("Você está saudável!")
     elif IMC>=25 and IMC<=29.9:
         print("Você está acima do peso")
@@ -33,4 +34,4 @@ else:
         print("Obesidade III")
     
 print('terminou o programa')
-```
+

@@ -1,5 +1,7 @@
+
+'''
 Idéia:
-```py
+
 SE minutos for menor que 200:
     calcule o preço usando 0.2
 
@@ -9,10 +11,11 @@ SE NÃO:
 
     SE NÃO:
         calcule preço usando 0.15
-```
-Código:
-```py
-minutos=eval(input("Quantos minutos você usou esse mês:"))
+'''
+
+'Código:'
+
+minutos=eval(input("Quantos minutos você usou esse mês: "))
 if minutos<200:
     fatura=(minutos*0.2)
 else:
@@ -20,6 +23,6 @@ else:
         fatura=(minutos*0.18)
     else:
         fatura=(minutos*0.15)
-print(fatura)
-```
+print('Total a pagar: R${:.2f}'.format(fatura))
+
 

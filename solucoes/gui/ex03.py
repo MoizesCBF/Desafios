@@ -1,12 +1,7 @@
-Importando bibliotecas:
-```py
-
 from tkinter import *
 from tkinter.messagebox import *
-```
-Definindo funções:
-```py
 
+#  ___________________________Funções________________________________
 def clickSair():
     resposta = askyesno('Encerrar aplicação',
                         'Certeza que desja sair?')
@@ -28,9 +23,7 @@ def calcular():
     except:
         showerror('ValueError',
                   'Você digitou um valor inválido.')
-```
-Código da interface gráfica:
-```py
+#  _______________________________________________________fim funções
 
 janela = Tk()
 
@@ -69,4 +62,3 @@ sair_bt.grid(row=3, column=1, sticky=W+E)
 janela.geometry('300x300')
 janela.title('Proposta 3 | by Harry')
 janela.mainloop()
-```
