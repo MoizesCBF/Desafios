@@ -1,13 +1,13 @@
 '''
 Idéia:
 
-receber o numero inteiro
-calcular se é divisivel por 2
+- Receber o numero inteiro
+- Calcular se é divisivel por 2
 
 SE resposta for par:
-    imprime um texto dizendo que o numero é par
+    imprime um texto dizendo que é par
 SE NÃO:
-    imprime um texto dizendo que o numero é impar
+    imprime um texto dizendo que é impar
 '''
 
 'Código:'

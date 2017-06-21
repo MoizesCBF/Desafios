@@ -16,11 +16,12 @@ SE NÃO:
 'Código:'
 
 peso=eval(input("Digite o seu peso(kg): "))
-altura=eval(input("Digite a sua altura(m): "))
+altura=eval(input("Digite a sua "
+                            "altura(m): "))
 IMC=peso/(altura*altura)
 
 if IMC<18.5:
-    print("Você está abaixo do peso, que inveja")
+    print("Você está abaixo do peso")
 else:
     if IMC>=18.5 and IMC<=24.9:
         print("Você está saudável!")

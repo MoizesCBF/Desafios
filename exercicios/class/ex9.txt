@@ -1,10 +1,3 @@
 
 
-Seu chefe do banco SantoAndré amou seu programa e prometeu uma promoção caso você consiga fazer uma modificação no algoritmo. Crie uma classe ContaEspecial, que herda da classe ContaCorrente, adicionando o atributo cheque_especial. Permita que este cliente possa sacar mesmo com saldo igual a zero respeitando o limite do cheque especial. Faça as devidas alterações nos métodos sacar e depositar e teste seu novo programa instanciando um cliente(objeto) ficticio. Lembre-se que sua promoção depende disso!
-
-Dica: importe a classe ContaCorrente da proposta 005
-
-exemplo:
-```py
-from proposta5 import ContaCorrente
-```
+Desenvolva uma classe Macaco, que possua os atributos nome e bucho(estomago) e pelo menos os métodos comer, verBucho e digerir. Faça um programa criando pelo menos dois macacos, alimentando-os com pelo menos 3 alimentos diferentes e verificando o conteúdo do estomago a cada refeição. Experimente fazer com que um macaco comer o outro. É possível criar um macaco canibal? 

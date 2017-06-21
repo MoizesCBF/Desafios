@@ -1,10 +1,10 @@
 from tkinter import *
 from tkinter.messagebox import *
 
-#  ___________________________Funções________________________________
+#  ______________Funções___________________
 def clickSair():
-    resposta = askyesno('Encerrar aplicação',
-                        'Certeza que desja sair?')
+    resposta=askyesno('Encerrar aplicação',
+                'Certeza que desja sair?')
     if resposta:
         janela.destroy()
     else:
@@ -15,15 +15,16 @@ def calcular():
         num = int(num_et.get())
         den = int(den_et.get())
         resultado = num/den
-        texto = 'A divisão de {} por {} é {}.'
-        monitor.configure(text=texto.format(num, den, resultado))
+        texto='A divisão de {} por {} é {}.'
+        monitor.configure(text=texto.format(
+                       num, den, resultado))
     except ZeroDivisionError:
         showerror('Divisão por Zero',
-                  'Denominador deve ser diferente de zero.')
+'Denominador deve ser diferente de zero.')
     except:
         showerror('ValueError',
-                  'Você digitou um valor inválido.')
-#  _______________________________________________________fim funções
+        'Você digitou um valor inválido.')
+#  _____________________________fim funções
 
 janela = Tk()
 
@@ -52,11 +53,14 @@ den_et = Entry(frame1, width=9)
 den_et.grid(row=2, column=1)
 
 'Criando botão calcular'
-ok_bt = Button(frame1,text='OK', height=5, command=calcular)
+ok_bt = Button(frame1,text='OK',
+               height=5, command=calcular)
 ok_bt.grid(row=3, column=0, sticky=W+E)
 
 'Criando botão sair'
-sair_bt = Button(frame1, text='Sair', height=5, command=clickSair)
+sair_bt = Button(frame1, text='Sair',
+                         height=5,
+                         command=clickSair)
 sair_bt.grid(row=3, column=1, sticky=W+E)
 
 janela.geometry('300x300')

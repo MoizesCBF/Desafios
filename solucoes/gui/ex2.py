@@ -1,21 +1,26 @@
 from tkinter import *
 from tkinter.messagebox import *
 
-#  ________________________Funções___________________________________
+#  _________________Funções________________
 def calcular():
-    'recebe ano, calcula idade e exibe no monitor'
+    '''recebe ano, calcula idade e exibe no 
+                                 monitor'''
     try:
         ano_nascimento = int(idade_et.get())
         assert len(idade_et.get()) == 4
         assert ano_nascimento <= 2017
-    except:  #  mostra mensagem de erro caso não seja válido
-        showerror('ValueError', 'Digite um ano de nascimento válido')
+    except:
+       '''mostra mensagem de erro caso não 
+                             seja válido'''
+        showerror('ValueError',
+      'Digite um ano de nascimento válido')
 
     idade = 2017 - ano_nascimento
     nome = nome_et.get()
     texto = 'Olá {}, você tem {} anos.'
-    monitor.configure(text=texto.format(nome, idade))
-#  _______________________________________________________fim funções
+    monitor.configure(text=texto.format(
+                              nome, idade))
+#  _____________________________fim funções
 
 'Cria janela principal'
 root = Tk()
@@ -40,8 +45,10 @@ idade_lb.pack(side=TOP)
 idade_et = Entry(root)
 idade_et.pack(side=TOP)
 
-'Cria botão calcular, comando associado a funcao calcular'
-bt_calcular = Button(root, text='Calcular', command=calcular)
+'''Cria botão calcular, comando associado
+                       a funcao calcular'''
+bt_calcular = Button(root, text='Calcular',
+                          command=calcular)
 bt_calcular.pack(side=TOP)
 
 

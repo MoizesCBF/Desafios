@@ -15,7 +15,8 @@ SE NÃO:
 
 'Código:'
 
-minutos=eval(input("Quantos minutos você usou esse mês: "))
+minutos=eval(input("Quantos minutos você "
+                   "usou esse mês: "))
 if minutos<200:
     fatura=(minutos*0.2)
 else:
@@ -23,6 +24,8 @@ else:
         fatura=(minutos*0.18)
     else:
         fatura=(minutos*0.15)
-print('Total a pagar: R${:.2f}'.format(fatura))
+
+texto = 'Total a pagar: R${:.2f}'
+print(texto.format(fatura))
 
 

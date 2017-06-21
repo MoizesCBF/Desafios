@@ -10,13 +10,13 @@ função recebe dois números(num_1 e num_2):
 
 'Código'
 
-#  _________________Funções_________________
+#  _________________Funções________________
 def retorna_maior(num1, num2):
     if (num1 > num2):
         return num1
     else:
         return num2
-#  ___________________________Fim de funções
+#  __________________________Fim de funções
 
 
 print('Qual número é maior?')
