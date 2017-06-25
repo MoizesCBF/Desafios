@@ -1,3 +1,7 @@
  
 
-A lista de temperatura de Mons, na Bélgica, foi armazenada em uma lista T=[-10, -8, 0, 1, 2, 5, -2, -4]. Escreva um programa que imprima a menor e maior temperatura bem como a temperatura média.
+A lista de temperatura de Mons, na Bélgica,
+foi armazenada em uma lista T
+T = [-10, -8, 0, 1, 2, 5, -2, -4]. Escreva
+um programa que imprima a menor e maior
+temperatura bem como a temperatura média.
