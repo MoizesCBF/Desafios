@@ -8,7 +8,7 @@ class aplicativo:
         #              janela --> raiz
         self.janela = janela #  permite acesso à raiz
         self.janela.geometry('200x200')
-        self.janela.title('IMC | by Harry')
+        self.janela.title('IMC | by KamenRider')
 
         #  Criando frame1:
         self.frame1 = Frame(self.janela)

@@ -16,5 +16,5 @@ ok_bt = Button(janela, text='OK',
 ok_bt.pack(side=TOP)
 
 janela.geometry('400x300')
-janela.title('Proposta 5 | by Harry')
+janela.title('Prop 5 | by KamenRider')
 janela.mainloop()

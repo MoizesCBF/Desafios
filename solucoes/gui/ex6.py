@@ -45,5 +45,5 @@ credito.add_command(label='Harry')
 
 
 root.geometry('300x300')
-root.title('Proposta 6 | by Harry')
+root.title('Prop 6 | by KamenRider')
 root.mainloop()

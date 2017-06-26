@@ -7,7 +7,8 @@ class Calculadora:
         #             mestre --> janela raiz
         self.mestre=mestre #  permite acesso por métodos
         self.mestre.geometry('250x300')
-        self.mestre.title('Calculadora')
+        self.mestre.title('Calculadora | '
+                          'by KamenRider')
         
         #  Cria menu principal
         self.principal = Menu(self.mestre)

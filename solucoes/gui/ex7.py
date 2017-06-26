@@ -9,7 +9,7 @@ class DNA:
         self.mestre=mestre  #  permite que métodos acessem 'mestre' 
         self.mestre.geometry('300x300')
         self.mestre.title('Contagem de bases'
-                               '| by Harry')
+                               '| by KamenRider')
 
         'Cria-se um label'
         self.seq=Label(self.mestre,

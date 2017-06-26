@@ -53,5 +53,5 @@ bt_calcular.pack(side=TOP)
 
 
 root.geometry('300x300')
-root.title('Prop 02 | by Harry')
+root.title('Prop 02 | by KamenRider')
 root.mainloop()

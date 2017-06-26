@@ -15,5 +15,5 @@ sol = bandeira.create_oval(80, 20,
    pode-se não ter uma esfera perfeita.'''
 
 root.geometry('300x150')# Janela retangular
-root.title('Proposta 4 | By Harry')
+root.title('Prop 4 | By KamenRider')
 root.mainloop()

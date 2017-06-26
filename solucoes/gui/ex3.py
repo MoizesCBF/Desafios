@@ -64,5 +64,5 @@ sair_bt = Button(frame1, text='Sair',
 sair_bt.grid(row=3, column=1, sticky=W+E)
 
 janela.geometry('300x300')
-janela.title('Proposta 3 | by Harry')
+janela.title('Prop 3 | by KamenRider')
 janela.mainloop()

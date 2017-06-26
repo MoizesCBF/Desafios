@@ -11,8 +11,8 @@ Tempo = Distancia / Velocidade
 
 'Código'
 
-d = input('Distância à percorrer(km): ')
-v = input('Velocidade esperada(km/h): ')
+d=input('Distância à percorrer(km): ')
+v=input('Velocidade esperada(km/h): ')
 
 #  Calcula-se o tempo:
 t = float(d) / float(v)

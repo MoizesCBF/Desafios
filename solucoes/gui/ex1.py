@@ -15,6 +15,6 @@ bt_ok = Button(janela, text='OK',
 'Usa-se pack() como gerenciador de layout'
 bt_ok.pack(side=TOP)
 
-janela.title(' | by Harry')
+janela.title('Prop 1 | by KamenRider')
 janela.geometry('250x50+300+300')
 janela.mainloop()
