@@ -1,4 +1,3 @@
-
 class Macaco:
     def __init__(self, nome):
         self.__bucho = []
