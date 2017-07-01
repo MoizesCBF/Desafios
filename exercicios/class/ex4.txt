@@ -1,5 +1,3 @@
-
-
 Importe a classe Televisão da proposta 003.
 Crie duas instâncias(objetos) do tipo Televisão iniciando em canais diferentes(ligadas) e teste todos os métodos criados (mudar canal, mudar volume e ligar/desligar).
 
