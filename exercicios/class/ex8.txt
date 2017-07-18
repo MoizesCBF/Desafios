@@ -1,3 +1,3 @@
 
 
-Crie uma classe NumeroImaginario com seus atributos: parte_real e parte_imaginaria. Implemente os métodos soma, subtração, multiplicação, conjugado e divisão.
+Crie uma classe NumeroComplexo com seus atributos: parte_real e parte_imaginaria. Implemente os métodos soma, subtração, multiplicação, conjugado e divisão.

@@ -1,0 +1,19 @@
+
+Escreva um programa em Python com Tkinter
+para implementar uma calculadora básica,
+que leia dois operandos e efetue operações
+de soma, subtração, multiplicação e divsão.
+Os operandos devem ser digitados por meio
+de caixas de entrada. Deve haver um botão
+para cada operação que, ao serem clicados,
+efetuam a conta correspondente. As opera-
+ções também devem estar acessíveis por me-
+nu. Ao clicar no botão da operação para
+efetuar a conta, o resultado deve ser exi-
+bido em um label com fonte Arial e tamanho
+de 25 pts. Se o resultado for negativo, ele
+deve ser exibido em vermelho, caso contrá-
+rio, deve ser exibido em azul. Se o usuário
+tentar efetuar uma operação inválida (uma
+divisão por zero, por exemplo), deve ser
+exibida uma caixa de diálogo de erro.  

@@ -1,0 +1,19 @@
+
+Tkinter
+
+Faça um programa em python que exiba uma 
+janela 300x300 pixels, título "Contagem 
+de bases", e que contenha, no mínimo, 
+uma label, caixa de entrada e dois botões. 
+Ao clicar em um dos botões, o programa deve
+ler uma sequência de DNA que tenha sido 
+digitada na caixa de entrada e deve mostrar
+na tela o número de ocorrências de cada 
+base (A, C, T e G). O programa deve ainda
+exibir uma caixa de diálogo de erro caso a
+sequência de entrada seja inválida, ou 
+seja, caso tenha algum caracter diferente 
+dos quatro permitidos. Deve haver um botão
+para sair do programa. Ao clicar em 'Sair',
+deve exibir uma caixa de diálogo solicitan-
+do confirmação do usuário.

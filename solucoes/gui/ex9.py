@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter.messagebox import *
 
-
+mais adequados. Seu programa deve utilizar,
 class aplicativo:
     
     def __init__(self, janela):
@@ -89,4 +89,3 @@ meuapp = aplicativo(root)
 
 root.mainloop()
 #  _______________________________Fim do código
-

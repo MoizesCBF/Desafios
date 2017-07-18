@@ -1,0 +1,24 @@
+
+Faça um programa em Tkinter para ler a 
+altura, em metros, e a massa, em Kg, de
+uma pessoa. Calcule seu índice de massa
+corporal (IMC). O programa deve utilizar
+elementos de interface que você considerar
+mais adequados. Seu programa deve utilizar,
+no mínimo, dois objetos da classe 'Frame',
+dois objetos da classe 'Entry', um objeto
+da classe 'Button' e um objeto da classe
+'Label'. Ao clicar no botão para calcular
+o IMC, o programa deve dizer se a pessoa
+está no peso ideal, acima do peso ou abaixo
+do peso. O programa deve ainda exibir uma
+mensagem de erro se o usuário tentar digi-
+tar valor menor ou igual a zero para massa
+ou altura.
+
+Dica: IMC = massa / altura²
+
+********* TABELA REFERÊNCIA *********
+IMC < 18,5      --> Abaixo do peso
+18,5 < IMC < 25 --> Peso ideal
+IMC > 25        --> Acima do peso
