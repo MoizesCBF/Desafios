@@ -1,0 +1,6 @@
+Proposto por @Schnnaps
+
+Escreva a função stringCount() que aceita duas entradas de string (um nome de arquivo e uma string de alvo) e retorna o número de ocorrências da string alvo no arquivo.
+
+
+Obs: Antes de executar o programa, crie um arquivo chamado "example.txt", com um algum texto, no mesmo local do arquivo ex7.py!
