@@ -1,0 +1,10 @@
+Proposto por @Schnnaps#8499 
+
+Uma forma de classificar uma lista de n números diferentes em ordem crescente é executar n –1 passadas sobre os números na lista. Cada passada compara todos os números adjacentes na lista e os inverte, se estiverem fora da ordem. Ao final da primeira passada, o maior item estará no final da lista (no índice n – 1). Portanto, a segunda passada pode parar antes de alcançar o último elemento, pois ele já está na posição correta; a segunda passada colocará o segundo maior item na penúltima posição. Em geral, a passada i comparará os pares nos índices 0 e 1, 1 e 2, 2 e 3, …, e i – 1 e i; ao final da passada, o i-ésimo maior item estará no índice n – i. Portanto, após a passada n – 1, a lista estará em ordem crescente.
+Escreva uma fução bubbleSort() que aceite uma lista de números como entrada e classifique a lista usando essa técnica.
+
+```py
+>>> lst = [3, 1, 7, 4, 9, 2, 5]
+>>> bubblesort(lst)
+>>> lst
+[1, 2, 3, 4, 5, 7, 9]```

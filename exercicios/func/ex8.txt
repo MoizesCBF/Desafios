@@ -1,0 +1,25 @@
+Proposto por @Like_a_NachozBR#5267 
+
+Enunciado:
+
+Os números de 1 até N vão atravessar um corredor, com portas numeradas de 1 até N.
+Os números vão em sequencia (começando pelo 1) e cada número altera o estado da porta (abre se estiver fechada e fecha se estiver aberta) cujo número for um múltiplo dele.
+
+Entrada:
+
+A entrada consiste de várias linhas e cada uma tem um valor N.(EOF)
+
+Saída:
+
+Determine as portas que vão estar abertas no final da brincadeira separadas por espaço dado que estão todas inicialmente fechadas.
+
+Restrições:
+1 <= N <= 25000000
+
+Exemplos:
+
+Entrada: Saída:
+4              1 4
+1               1
+2              1
+Dificuldade: Fácil - Médio
