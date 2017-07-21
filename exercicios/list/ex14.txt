@@ -1,0 +1,9 @@
+# Exercício proposto por @Yasmim#7532 
+
+Os arquivos CSV (Comma-Separeted Values) são extensões de arquivos que formatam os seus dados como uma tabela. A sua utilização vem de muito tempo atrás.
+
+Ainda hoje, os arquivos .csv são muito utilizados. O seu formato mais comum é a separação dos dados por ';'. Não há uma definição formal para arquivos neste formato. Normalmente, cada linha identifica um registro e as suas colunas são delimitadas por um caractere especial, geralmente, o ponto e vírgula ';'.
+
+Quando tratamos arquivos CSV, dizemos que cada linha possui uma quantidade pré-determinada de dados (elementos) por linha. Ou seja, essa quantidade é igual em todas as linhas. Caso haja alguma diferença, o arquivo está formatado erradamente e você não deveria utilizá-lo.
+
+O objetivo dessa questão é escrever uma função que leia uma linha de um arquivo CSV e guarde os seus dados em uma lista. Portanto, você deve criar uma função que receba uma linha (String) e a quantidade de dados existentes nessa linha. A sua função deve retornar uma lista com todos os elementos ordenados, conforme aparecem no arquivo CSV.

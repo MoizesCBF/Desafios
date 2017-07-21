@@ -1,0 +1,35 @@
+Proposto por @Yasmim#7532 
+
+O imperador Lord Sidious praticava a sua impopularidade aprovando leis contra a população. A sua forma de agir era criando leis retirando direitos da população. Para aprovar as leis, o Imperador enviava uma lista com números de suas leis para o congresso. Os congressistas faziam vista grossa às leis do imperador. A população se organizou e criou conselhos que votavam pela manutenção ou não das leis e criavam uma lista com o número das leis que não deveriam ser aprovadas e as enviava aos congressistas. Por conta disso, você foi contratado para criar um programa que retire da pauta de votação as leis não aprovadas pela população.
+
+Portanto, o seu trabalho é criar um programa que leia um número inteiro N, que é a quantidade de leis enviadas para votação pelo rei e ler os números das N leis, uma em cada linha.
+
+Após a leitura das leis do Imperador, você deve ler um número L, que é a quantidade de leis votadas pela população e que devem ser excluídas da votação e ler os números das L leis, uma em cada linha.
+
+Ao final, o seu programa deve apresentar uma lista, separada por vírgula e entre colchetes, com as leis que devem ser enviadas ao congresso.
+
+Exemplo:
+
+Entrada
+
+5 #Quantidade de leis N
+
+1 #Lei número 1
+
+2 #Lei número 2
+
+3 #Lei número 3
+
+4 #Lei número 4
+
+5 #Lei número 5
+
+2 #Quantidade de leis L
+
+2 #Lei número 2, deve ser retirada da lista
+
+5 #Lei número 5, deve ser retirada da lista
+
+Saída:
+
+[1, 3, 4]
