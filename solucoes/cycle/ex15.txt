@@ -1,0 +1,13 @@
+Proposto por @Yasmim#7532 
+
+Faça um  programa  que informe a um colecionador quantas cartas faltam para completar a coleção. O total da coleção é de 151 cartas.
+
+Entrada
+
+A primeira linha do caso de teste consiste de um inteiro N (De 1 a 150), representando a quantidade de cartas que já existem na coleção
+As próximas N linhas consistem de uma string S (de 1 a 150), representando o nome de cada carta. O nome de cada carta consiste apenas de letras maiúsculas e minúsculas.
+
+Saída
+
+Você deverá imprimir o número de cartas que faltam para completar a coleção de 151 cartas.(editado)
+Atenção: Não podem ter cartas repetidas
