@@ -1,0 +1,6 @@
+Proposto por @Gafanhoto#6785 
+
+
+Um professor da sua classe quer propor 10 artigos (temas) para apresentação onde cada aluno receberá um desses artigos (temas) para apresentar. Ele quer implementar um algoritmo que sorteie um tema para cada aluno mas está com muitas dificuldades. Proponha um algoritmo em python para seu professor que sorteie um tema para cada aluno sabendo que a sua turma possui 6 alunos. OBS:. Não podemos ter dois alunos apresentando o mesmo tema.
+
+Dica: Biblioteca random

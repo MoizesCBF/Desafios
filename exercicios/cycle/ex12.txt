@@ -1,0 +1,14 @@
+Proposto por @Yasmim#7532 
+
+Uma votação será realizada entre todos os N jogadores do seu time. Cada jogador deverá votar se o impeachment deve ou não ocorrer. Se o número de votos favoráveis ao impeachment foi maior ou igual a 2/3 (dois terços) do total de jogadores, o líder será afastado. Caso contrário, a acusação é arquivada e ele continuará no cargo.
+
+Dados os votos de todos os jogadores, determine o resultado da votação.
+
+
+ENTRADA
+
+Como entrada você terá, primeiro, o número N de participantes. Logo após, teremos N linhas que indicam se o jogador voltou a favor (1) ou contra (0) o impeachment. O sistema lerá apenas ZEROS e UNS, onde 0 é CONTRA o impeachment e 1 é A FAVOR do impeachment.
+
+SAÍDA
+
+A saída será, também, 0 ou 1. Onde 1 (UM) indica que o líder sofreu o impeachment e 0 (ZERO) significa que o caso foi arquivado.

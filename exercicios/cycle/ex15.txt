@@ -1,0 +1,6 @@
+Proposto por @John Titor#3890 
+
+
+Uma pessoa quer fazer uma lista de convidados, sendo assim, você terá que fazer um programa que pergunte quantas pessoas ela quer convidar, em seguida pergunte os nomes dos convidados e logo após, imprima ("print('')") os  nomes dosconvidados na tela!
+
+(OBS: Conhecimento necessário em Lista, While e For)

@@ -1,0 +1,14 @@
+Proposto por @william_klein's#6834 
+
+
+Crie um programa onde:
+
+Sorteie um nmr entre 1 e 9 e armazene em uma variável e pergunte o palpite do usuário de qual nmr foi sorteado. Ele tbm deverá contar as tentavivas
+
+ENTRADA:
+
+Ele perguntará qual o palpite do usuário.
+
+SAÍDA:
+
+Caso o valor digitado seja maior do que o valor sorteado à máquina deverá indicar que o palpite foi mt Alto, e caso ele seja menor que o nmr sorteado a máquina indicara que o palpite foi baixo, e quando ele acertar escrevera que ele acertou a quantas vezes ele tentou.
