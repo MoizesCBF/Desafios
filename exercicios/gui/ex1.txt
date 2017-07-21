@@ -1,4 +1,4 @@
-		Tkinter
+Tkinter
 
 Usando o gerenciador de layout pack( ):
 Crie a função 'bt_ok' que mostre na tela uma mensagem; 
@@ -6,10 +6,9 @@ Crie um programa que mostre um botão 'OK';
 Ao clicar em 'OK' mostre na tela a mensagem:
 'Você clicou no botão ok !'.
 
-Dica: 
-```py
+Dica:
+
 def bt_ok():
     print ('Você clicou no botão OK!')
-```
 
  
