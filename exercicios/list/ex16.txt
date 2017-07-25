@@ -1,0 +1,44 @@
+Proposto por @ezra#2037
+
+Lista de Jogos:
+
+João tem uma lista de jogos que estão enfileirados de 1 a N, sendo que o custo i de um jogo
+é um valor Vi. Com isso, João quer comprar alguns jogos e quer fazer algumas consultas:
+
+- Dado dois números, l e r (1 <= l <= r <= N), qual o valor total dos jogos de l até r ?
+
+Ajude o joão fornecendo os valores corretos para ele.
+
+
+Entrada
+
+A primeira linha um inteiro N (1 <= N <= 100000) - Quantidade de jogos
+A segunda linha contém N inteiros: V1, V2, V3, .. Vn (1 <= Vi, <= 10000000) - Valores dos jogos
+A terceira linha tem um inteiro M (1 <= M <= 100000) - Quantidade de consultas
+E por último, M linhas, que cada linha contém dois inteiros l e r separados por espaços. (1 <= l <= r <= N)
+
+
+Saída
+
+Imprimir M linhas contendo um número inteiro - Valor total dos jogos no intervalo de l a r.
+As respostas devem estar na ordem que foram informados.
+
+Exemplo
+
+- Entrada:
+    6
+    3 4 1 5 4 2
+    4
+    1 6
+    3 6
+    3 4
+    1 2
+
+- Saida:
+    19
+    12
+    6
+    7
+
+
+Dificuldade: Médio.
