@@ -1,4 +1,4 @@
-#Proposto por @Yasmim#7532
+#Proposto por @Like_a_NachozBR#
 
 Q1 - string.lower()
 Q2 - string = len(string) * '?'
