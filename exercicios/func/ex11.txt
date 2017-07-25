@@ -1,0 +1,39 @@
+Proposto por @Yasmim#7532 
+
+Q1 - Criar uma função que, dado uma palavra, retornar essa palavra em letras minúsculas.
+Exemplo:
+Entrada: GiRaFa
+Saída: girafa
+Q2 - Criar uma função que, dado uma palavra, substituir todos os caracteres pelo caractere
+‘?’ e retornar esta nova palavra.
+Exemplo:
+- Entrada: girafa
+- Saída: ??????
+Q3 - Criar uma função que, dado uma palavra e um caracter, contar quantas vezes esse
+caractere aparece naquela palavra e retornar esse número.
+Exemplo:
+Entrada: girafa a
+Saída: 2
+Q4 - Criar uma função que, dado uma palavra e um caracter, verificar se este caractere
+aparece alguma vez nessa palavra e retornar verdadeiro ou falso.
+Exemplo:
+Entrada: girafa a
+Saída: True
+Exemplo:
+Entrada: girafa e Saída: False
+Q5 - Criar uma função que, dado uma palavra e um caracter, retornar uma lista com todos
+os índices em que este caracter aparece nesta palavra.
+Exemplo:
+Entrada: girafa a
+Saída: lista = [ 3, 5 ]
+Q6 - Criar uma função que, dado um texto, um caractere e uma lista de números (índices),
+retornar essa palavra com o caractere substituído em cada um dos números desta lista de
+índices.
+Exemplo:
+Entrada: gir?f? a lista = [ 3, 5 ]
+Saída: girafa
+Q7 - Criar uma função que, dado uma lista de caracteres e um caractere, verificar se este
+caractere já existe na lista e retornar True ou False.
+Exemplo:
+Entrada: lista = [ “a”, “e”, “i”, “o” ] u
+Saída: False
