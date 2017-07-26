@@ -1,24 +1,26 @@
-Preparando para Olimpíada
+Proposto por @ezra#2037.
 
-Você tem n problemas. Você estimou a dificuldade de cada problema i a um inteiro ci. Agora você quer
-preparar para a competição utilizando alguns dos problemas que você criou.
+Preparando para OlimpÃ­ada
 
-Uma competição de programação deve consistir em pelo menos dois problemas. Você acha que
-a dificuldade total dos problemas da competição deve ser pelo menos l e no máximo r. Também,
-você acha que a diferença entre os problemas mais fáceis e dificeis devem ser pelo menos x.
+VocÃª tem n problemas. VocÃª estimou a dificuldade de cada problema i a um inteiro ci. Agora vocÃª quer
+preparar para a competiÃ§Ã£o utilizando alguns dos problemas que vocÃª criou.
 
-Encontre o número de maneiras de escolher um problema para o concurso.
+Uma competiÃ§Ã£o de programaÃ§Ã£o deve consistir em pelo menos dois problemas. VocÃª acha que
+a dificuldade total dos problemas da competiÃ§Ã£o deve ser pelo menos l e no mÃ¡ximo r. TambÃ©m,
+vocÃª acha que a diferenÃ§a entre os problemas mais fÃ¡ceis e dificeis devem ser pelo menos x.
+
+Encontre o nÃºmero de maneiras de escolher um problema para a competiÃ§Ã£o.
 
 
 Entrada
-Primeira linha contém quatro inteiros n, l, r, x 
-(1 <= n <= 15, 1 <= l <= r <= 10^9, 1 <= x <= 10^6) - Número de problemas que voce tem, o minimo e o máximo valor da dificuldade do problema,
-e a diferença entre o problema mais dificil e mais fácil.
-Segunda linha contém n inteiros c1, c2, c3 ... cn (1 <= ci <= 10^6) - Dificuldade de cada problema
+Primeira linha contÃ©m quatro inteiros n, l, r, x 
+(1 <= n <= 15, 1 <= l <= r <= 10^9, 1 <= x <= 10^6) - NÃºmero de problemas que voce tem, o minimo e o mÃ¡ximo valor da dificuldade do problema,
+e a diferenÃ§a entre o problema mais dificil e mais fÃ¡cil.
+Segunda linha contÃ©m n inteiros c1, c2, c3 ... cn (1 <= ci <= 10^6) - Dificuldade de cada problema
 
 
-Saída
-Imprimir o número de possibilidades
+SaÃ­da
+Imprimir o nÃºmero de possibilidades
 
 
 
@@ -27,17 +29,22 @@ Exemplos:
     Entrada:
         3 5 6 1
         1 2 3
-    Saída:
+    SaÃ­da:
         2
 
     
     Entrada:
         5 25 35 10
         10 10 20 10 20
-    Saída:
+    SaÃ­da:
         6
 
 
 
-Dificuldade: Médio
-Site Original: http://codeforces.com/problemset/problem/550/B
+Dificuldade: MÃ©dio
+Problema Original: http://codeforces.com/problemset/problem/550/B
+
+
+Algumas entradas para testes unitÃ¡rios:
+https://gist.github.com/ezradiniz/56e225597d7053f1c168921cc529104e
+ 
