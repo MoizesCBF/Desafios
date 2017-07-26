@@ -1,0 +1,43 @@
+Preparando para Olimpíada
+
+Você tem n problemas. Você estimou a dificuldade de cada problema i a um inteiro ci. Agora você quer
+preparar para a competição utilizando alguns dos problemas que você criou.
+
+Uma competição de programação deve consistir em pelo menos dois problemas. Você acha que
+a dificuldade total dos problemas da competição deve ser pelo menos l e no máximo r. Também,
+você acha que a diferença entre os problemas mais fáceis e dificeis devem ser pelo menos x.
+
+Encontre o número de maneiras de escolher um problema para o concurso.
+
+
+Entrada
+Primeira linha contém quatro inteiros n, l, r, x 
+(1 <= n <= 15, 1 <= l <= r <= 10^9, 1 <= x <= 10^6) - Número de problemas que voce tem, o minimo e o máximo valor da dificuldade do problema,
+e a diferença entre o problema mais dificil e mais fácil.
+Segunda linha contém n inteiros c1, c2, c3 ... cn (1 <= ci <= 10^6) - Dificuldade de cada problema
+
+
+Saída
+Imprimir o número de possibilidades
+
+
+
+Exemplos:
+
+    Entrada:
+        3 5 6 1
+        1 2 3
+    Saída:
+        2
+
+    
+    Entrada:
+        5 25 35 10
+        10 10 20 10 20
+    Saída:
+        6
+
+
+
+Dificuldade: Médio
+Site Original: http://codeforces.com/problemset/problem/550/B
